@@ -215,8 +215,8 @@ class SameerAnsari:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sameer--tech--dev-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/sameer-tech-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/sameer-ansari)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-0f0c29?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:sameer@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/md-sameer-ansari)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-0f0c29?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:sa857785@gmail.com)
 
 </div>
 
